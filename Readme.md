@@ -1,0 +1,1 @@
+The Death Executor is currently under development and will soon be released for testing. At this stage, no specific release date has been defined, but further updates will be shared as progress continues.
